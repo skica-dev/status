@@ -18,12 +18,12 @@ sites:
   - name: Todoist extension
     url: https://todoist-gtd.rover.cap.skica.dev
     icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg
-  - name: Caprover management
-    url: https://captain.rover.cap.skica.dev
-    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg
     expectedStatusCodes:
       - 404
       - 200
+  - name: Caprover management
+    url: https://captain.rover.cap.skica.dev
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg
   - name: Podręczniki
     url: https://podreczniki.info
     icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4da.svg
