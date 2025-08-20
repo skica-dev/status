@@ -59,19 +59,17 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4dd.svg",
     "slug": "change-detection",
     "status": "up",
-    "uptime": "5.28%",
-    "uptimeDay": "5.28%",
-    "uptimeWeek": "5.28%",
-    "uptimeMonth": "5.28%",
-    "uptimeYear": "5.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 635,
     "timeWeek": 635,
     "timeMonth": 635,
     "timeYear": 635,
-    "dailyMinutesDown": {
-      "2025-08-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Caprover management",
@@ -97,19 +95,17 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg",
     "slug": "todoist-extension",
     "status": "up",
-    "uptime": "1.60%",
-    "uptimeDay": "1.60%",
-    "uptimeWeek": "1.60%",
-    "uptimeMonth": "1.60%",
-    "uptimeYear": "1.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 851,
     "timeWeek": 851,
     "timeMonth": 851,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2025-08-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Podręczniki",
