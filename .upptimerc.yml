@@ -35,7 +35,6 @@ status-website:
   # baseUrl: /your-repo-name
   name: Status page
   theme: dark
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
