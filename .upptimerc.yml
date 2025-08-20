@@ -8,22 +8,22 @@ sites:
     icon: https://skica.dev/favicon.ico
   - name: Pociągi
     url: https://pociagi.skica.dev
-    icon: 🚆
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f686.svg
   - name: Nextcloud
     url: https://cloud.skica.dev
-    icon: ☁️
-  - name: Changedetection.io
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601-fe0f.svg
+  - name: Change detection
     url: https://changes.skica.dev
-    icon: 📝
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4dd.svg
   - name: Caprover management
     url: https://captain.rover.cap.skica.dev
-    icon: 🤖
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg
   - name: Todoist extension
     url: https://todoist-gtd.rover.cap.skica.dev
-    icon: ✅
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg
   - name: Podręczniki
     url: https://podreczniki.info
-    icon: 📚
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4da.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
