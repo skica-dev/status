@@ -11,16 +11,16 @@ sites:
     icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f686.svg
   - name: Nextcloud
     url: https://cloud.skica.dev
-    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601-fe0f.svg
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601.svg
   - name: Change detection
     url: https://changes.skica.dev
     icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4dd.svg
-  - name: Caprover management
-    url: https://captain.rover.cap.skica.dev
-    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg
   - name: Todoist extension
     url: https://todoist-gtd.rover.cap.skica.dev
     icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg
+  - name: Caprover management
+    url: https://captain.rover.cap.skica.dev
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg
     expectedStatusCodes:
       - 404
       - 200
@@ -33,11 +33,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.skica.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://skica.dev/favicon.ico
-  name: Upptime
+  name: Status page
   theme: dark
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
