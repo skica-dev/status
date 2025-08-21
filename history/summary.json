@@ -77,18 +77,19 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg",
     "slug": "todoist-extension",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "84.87%",
+    "uptimeDay": "84.87%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "84.87%",
+    "uptimeYear": "84.87%",
     "time": 622,
     "timeDay": 622,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2025-08-20": 0
+      "2025-08-21": 122,
+      "2025-08-20": 33
     }
   },
   {
