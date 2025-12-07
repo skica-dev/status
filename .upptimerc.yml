@@ -27,7 +27,13 @@ sites:
   - name: Podręczniki
     url: https://podreczniki.info
     icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4da.svg
-
+  - name: N8n
+    url: https://n8n.skica.dev
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg
+  - name: Mailstack
+    url: https://mailstack.skica.dev
+    icon: https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4e7.svg
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
