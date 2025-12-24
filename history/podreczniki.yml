@@ -1,7 +1,7 @@
 url: https://podreczniki.info
-status: up
-code: 200
-responseTime: 1047
-lastUpdated: 2025-12-23T23:01:09.653Z
+status: down
+code: 502
+responseTime: 3822
+lastUpdated: 2025-12-24T01:40:37.250Z
 startTime: 2025-08-20T08:57:28.685Z
 generator: Upptime <https://github.com/upptime/upptime>
