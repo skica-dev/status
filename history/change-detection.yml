@@ -1,7 +1,7 @@
 url: https://changes.skica.dev
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2025-12-23T23:01:07.229Z
+status: down
+code: 502
+responseTime: 3708
+lastUpdated: 2025-12-24T01:39:59.712Z
 startTime: 2025-08-20T09:03:32.788Z
 generator: Upptime <https://github.com/upptime/upptime>
