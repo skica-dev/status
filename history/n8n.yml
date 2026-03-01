@@ -1,7 +1,7 @@
 url: https://n8n.skica.dev
-status: up
-code: 200
-responseTime: 410
-lastUpdated: 2026-03-01T13:30:09.688Z
+status: down
+code: 503
+responseTime: 21599
+lastUpdated: 2026-03-01T21:25:34.898Z
 startTime: 2025-12-07T14:16:32.188Z
 generator: Upptime <https://github.com/upptime/upptime>
