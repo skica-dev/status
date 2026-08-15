@@ -32,17 +32,17 @@
     "url": "https://pociagi.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f686.svg",
     "slug": "pociagi",
-    "status": "down",
+    "status": "up",
     "uptime": "93.51%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "93.51%",
-    "time": 954,
-    "timeDay": 420,
-    "timeWeek": 525,
-    "timeMonth": 708,
-    "timeYear": 954,
+    "time": 958,
+    "timeDay": 1270,
+    "timeWeek": 747,
+    "timeMonth": 771,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2025-08-21": 21,
       "2025-09-06": 20,
@@ -124,7 +124,7 @@
       "2026-06-20": 70,
       "2026-07-18": 46,
       "2026-08-13": 87,
-      "2026-08-15": 1
+      "2026-08-15": 29
     }
   },
   {
@@ -132,16 +132,16 @@
     "url": "https://cloud.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601.svg",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "92.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "92.97%",
+    "status": "up",
+    "uptime": "92.96%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "92.96%",
     "time": 1421,
-    "timeDay": 960,
-    "timeWeek": 1182,
-    "timeMonth": 1220,
+    "timeDay": 1203,
+    "timeWeek": 1228,
+    "timeMonth": 1233,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2025-09-06": 20,
@@ -223,7 +223,7 @@
       "2026-07-18": 37,
       "2026-07-21": 89,
       "2026-08-13": 87,
-      "2026-08-15": 1
+      "2026-08-15": 29
     }
   },
   {
