@@ -32,17 +32,17 @@
     "url": "https://pociagi.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f686.svg",
     "slug": "pociagi",
-    "status": "down",
+    "status": "up",
     "uptime": "93.62%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "93.58%",
-    "time": 1035,
-    "timeDay": 15450,
-    "timeWeek": 4723,
-    "timeMonth": 1757,
-    "timeYear": 1043,
+    "time": 1037,
+    "timeDay": 11034,
+    "timeWeek": 4493,
+    "timeMonth": 1769,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-09-06": 20,
       "2025-09-11": 68,
@@ -125,7 +125,7 @@
       "2026-08-13": 87,
       "2026-08-15": 29,
       "2026-08-21": 108,
-      "2026-08-22": 5
+      "2026-08-22": 14
     }
   },
   {
@@ -133,17 +133,17 @@
     "url": "https://cloud.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601.svg",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "93.08%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "93.03%",
-    "time": 1491,
-    "timeDay": 17425,
-    "timeWeek": 4727,
-    "timeMonth": 2122,
-    "timeYear": 1504,
+    "time": 1492,
+    "timeDay": 12287,
+    "timeWeek": 4480,
+    "timeMonth": 2119,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2025-09-06": 20,
       "2025-09-15": 20,
@@ -226,7 +226,7 @@
       "2026-08-13": 87,
       "2026-08-15": 57,
       "2026-08-21": 108,
-      "2026-08-22": 3
+      "2026-08-22": 13
     }
   },
   {
@@ -234,16 +234,16 @@
     "url": "https://changes.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4dd.svg",
     "slug": "change-detection",
-    "status": "down",
+    "status": "up",
     "uptime": "94.30%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "94.26%",
     "time": 1143,
-    "timeDay": 5407,
-    "timeWeek": 2095,
-    "timeMonth": 1342,
+    "timeDay": 4029,
+    "timeWeek": 2020,
+    "timeMonth": 1340,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-09-06": 20,
@@ -315,7 +315,7 @@
       "2026-08-13": 87,
       "2026-08-15": 28,
       "2026-08-21": 108,
-      "2026-08-22": 2
+      "2026-08-22": 11
     }
   },
   {
@@ -323,17 +323,17 @@
     "url": "https://todoist-gtd.rover.cap.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg",
     "slug": "todoist-extension",
-    "status": "down",
+    "status": "up",
     "uptime": "93.18%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "93.33%",
-    "time": 789,
-    "timeDay": 485,
-    "timeWeek": 610,
-    "timeMonth": 601,
-    "timeYear": 794,
+    "time": 792,
+    "timeDay": 1108,
+    "timeWeek": 722,
+    "timeMonth": 633,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2025-08-31": 838,
       "2025-08-30": 1440,
@@ -410,7 +410,7 @@
       "2026-07-21": 88,
       "2026-08-15": 28,
       "2026-08-21": 108,
-      "2026-08-22": 1
+      "2026-08-22": 11
     }
   },
   {
@@ -418,17 +418,17 @@
     "url": "https://captain.rover.cap.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg",
     "slug": "caprover-management",
-    "status": "down",
-    "uptime": "96.10%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
+    "status": "up",
+    "uptime": "96.09%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "96.07%",
     "time": 541,
-    "timeDay": 540,
-    "timeWeek": 597,
-    "timeMonth": 522,
-    "timeYear": 542,
+    "timeDay": 522,
+    "timeWeek": 586,
+    "timeMonth": 521,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-09-06": 20,
       "2025-09-15": 20,
@@ -491,7 +491,7 @@
       "2026-07-12": 139,
       "2026-07-21": 88,
       "2026-08-21": 108,
-      "2026-08-22": 1
+      "2026-08-22": 11
     }
   },
   {
@@ -499,16 +499,16 @@
     "url": "https://podreczniki.info",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4da.svg",
     "slug": "podreczniki",
-    "status": "down",
+    "status": "up",
     "uptime": "96.48%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "96.46%",
-    "time": 1049,
-    "timeDay": 853,
-    "timeWeek": 843,
-    "timeMonth": 837,
+    "time": 1048,
+    "timeDay": 887,
+    "timeWeek": 853,
+    "timeMonth": 840,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-09-06": 20,
@@ -575,7 +575,7 @@
       "2026-07-21": 88,
       "2026-08-15": 28,
       "2026-08-21": 107,
-      "2026-08-22": 1
+      "2026-08-22": 11
     }
   },
   {
@@ -583,17 +583,17 @@
     "url": "https://n8n.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg",
     "slug": "n8n",
-    "status": "down",
+    "status": "up",
     "uptime": "94.87%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "94.87%",
-    "time": 836,
-    "timeDay": 599,
-    "timeWeek": 671,
-    "timeMonth": 666,
-    "timeYear": 836,
+    "time": 835,
+    "timeDay": 579,
+    "timeWeek": 659,
+    "timeMonth": 663,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2025-12-24": 1202,
       "2025-12-26": 1372,
@@ -659,7 +659,7 @@
       "2026-08-13": 86,
       "2026-08-15": 27,
       "2026-08-21": 107,
-      "2026-08-22": 1
+      "2026-08-22": 10
     }
   },
   {
@@ -667,17 +667,17 @@
     "url": "https://mailstack.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4e7.svg",
     "slug": "mailstack",
-    "status": "down",
+    "status": "up",
     "uptime": "94.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "94.90%",
-    "time": 1335,
-    "timeDay": 660,
-    "timeWeek": 982,
-    "timeMonth": 788,
-    "timeYear": 1335,
+    "time": 1338,
+    "timeDay": 1323,
+    "timeWeek": 1167,
+    "timeMonth": 845,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2025-12-24": 1202,
       "2025-12-30": 715,
@@ -737,7 +737,7 @@
       "2026-06-20": 48,
       "2026-07-12": 117,
       "2026-07-18": 32,
-      "2026-08-22": 0
+      "2026-08-22": 10
     }
   }
 ]
