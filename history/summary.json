@@ -32,17 +32,17 @@
     "url": "https://pociagi.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f686.svg",
     "slug": "pociagi",
-    "status": "down",
-    "uptime": "93.94%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "93.43%",
-    "time": 1039,
-    "timeDay": 762,
-    "timeWeek": 660,
-    "timeMonth": 1875,
-    "timeYear": 1068,
+    "status": "up",
+    "uptime": "93.91%",
+    "uptimeDay": "77.82%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "93.41%",
+    "time": 1038,
+    "timeDay": 672,
+    "timeWeek": 650,
+    "timeMonth": 1841,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2025-11-16": 121,
       "2025-11-15": 1,
@@ -125,7 +125,7 @@
       "2026-08-30": 323,
       "2026-09-08": 120,
       "2026-09-10": 279,
-      "2026-09-21": 181
+      "2026-09-21": 319
     }
   },
   {
@@ -133,17 +133,17 @@
     "url": "https://cloud.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601.svg",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "93.39%",
-    "uptimeDay": "88.09%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "92.83%",
+    "status": "up",
+    "uptime": "93.37%",
+    "uptimeDay": "78.47%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "92.80%",
     "time": 1562,
-    "timeDay": 1687,
-    "timeWeek": 1505,
-    "timeMonth": 3290,
-    "timeYear": 1615,
+    "timeDay": 1626,
+    "timeWeek": 1513,
+    "timeMonth": 3245,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2025-09-25": 1173,
       "2025-11-16": 121,
@@ -228,7 +228,7 @@
       "2026-09-08": 120,
       "2026-09-10": 270,
       "2026-09-11": 259,
-      "2026-09-21": 172
+      "2026-09-21": 310
     }
   },
   {
@@ -667,17 +667,17 @@
     "url": "https://mailstack.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4e7.svg",
     "slug": "mailstack",
-    "status": "down",
-    "uptime": "95.19%",
-    "uptimeDay": "88.67%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "95.19%",
-    "time": 1367,
-    "timeDay": 548,
-    "timeWeek": 695,
-    "timeMonth": 1626,
-    "timeYear": 1367,
+    "status": "up",
+    "uptime": "95.15%",
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "95.15%",
+    "time": 1365,
+    "timeDay": 584,
+    "timeWeek": 691,
+    "timeMonth": 1602,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-12-24": 1202,
       "2025-12-30": 715,
@@ -740,7 +740,7 @@
       "2026-08-30": 292,
       "2026-09-10": 261,
       "2026-09-11": 258,
-      "2026-09-21": 163
+      "2026-09-21": 302
     }
   }
 ]
