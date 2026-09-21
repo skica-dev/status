@@ -33,11 +33,11 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f686.svg",
     "slug": "pociagi",
     "status": "down",
-    "uptime": "93.96%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "93.46%",
+    "uptime": "93.94%",
+    "uptimeDay": "87.44%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "93.43%",
     "time": 1039,
     "timeDay": 762,
     "timeWeek": 660,
@@ -125,7 +125,7 @@
       "2026-08-30": 323,
       "2026-09-08": 120,
       "2026-09-10": 279,
-      "2026-09-21": 18
+      "2026-09-21": 181
     }
   },
   {
@@ -134,11 +134,11 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2601.svg",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "93.42%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "92.86%",
+    "uptime": "93.39%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "92.83%",
     "time": 1562,
     "timeDay": 1687,
     "timeWeek": 1505,
@@ -228,7 +228,7 @@
       "2026-09-08": 120,
       "2026-09-10": 270,
       "2026-09-11": 259,
-      "2026-09-21": 9
+      "2026-09-21": 172
     }
   },
   {
@@ -326,7 +326,7 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/2705.svg",
     "slug": "todoist-extension",
     "status": "up",
-    "uptime": "93.58%",
+    "uptime": "93.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
@@ -668,11 +668,11 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4e7.svg",
     "slug": "mailstack",
     "status": "down",
-    "uptime": "95.22%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "95.22%",
+    "uptime": "95.19%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "95.19%",
     "time": 1367,
     "timeDay": 548,
     "timeWeek": 695,
@@ -740,7 +740,7 @@
       "2026-08-30": 292,
       "2026-09-10": 261,
       "2026-09-11": 258,
-      "2026-09-21": 0
+      "2026-09-21": 163
     }
   }
 ]
