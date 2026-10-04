@@ -5,7 +5,7 @@
     "icon": "https://skica.dev/favicon.ico",
     "slug": "skica-dev",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -501,9 +501,9 @@
     "url": "https://podreczniki.info",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4da.svg",
     "slug": "podreczniki",
-    "status": "up",
+    "status": "down",
     "uptime": "96.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.63%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "96.24%",
@@ -580,7 +580,8 @@
       "2026-09-23": 132,
       "2026-09-26": 249,
       "2026-09-29": 30,
-      "2026-09-28": 209
+      "2026-09-28": 209,
+      "2026-10-04": 0
     }
   },
   {
