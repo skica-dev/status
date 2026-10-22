@@ -1,7 +1,7 @@
 url: https://pociagi.skica.dev
-status: up
-code: 200
-responseTime: 678
-lastUpdated: 2026-10-22T12:25:10.232Z
+status: down
+code: 502
+responseTime: 40953
+lastUpdated: 2026-10-22T20:43:47.238Z
 startTime: 2025-08-20T08:57:13.865Z
 generator: Upptime <https://github.com/upptime/upptime>
