@@ -1,7 +1,7 @@
 url: https://mailstack.skica.dev
-status: up
-code: 200
-responseTime: 681
-lastUpdated: 2026-11-16T02:30:45.133Z
+status: down
+code: 502
+responseTime: 31059
+lastUpdated: 2026-11-17T03:32:59.891Z
 startTime: 2025-12-07T14:16:33.054Z
 generator: Upptime <https://github.com/upptime/upptime>
