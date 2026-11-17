@@ -1,7 +1,7 @@
 url: https://todoist-gtd.rover.cap.skica.dev
-status: up
-code: 404
-responseTime: 383
-lastUpdated: 2026-11-16T02:25:31.161Z
+status: down
+code: 502
+responseTime: 31953
+lastUpdated: 2026-11-17T03:18:06.136Z
 startTime: 2025-08-20T08:57:23.784Z
 generator: Upptime <https://github.com/upptime/upptime>
