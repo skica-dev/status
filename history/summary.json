@@ -33,10 +33,10 @@
     "slug": "pociagi",
     "status": "down",
     "uptime": "94.29%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "92.72%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "92.91%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "92.37%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "92.90%",
     "time": 1431,
     "timeDay": 52190,
     "timeWeek": 13759,
@@ -130,7 +130,7 @@
       "2026-11-05": 331,
       "2026-11-17": 512,
       "2026-11-19": 181,
-      "2026-11-20": 41
+      "2026-11-20": 77
     }
   },
   {
@@ -140,10 +140,10 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "93.80%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "92.86%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "92.51%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "94.39%",
+    "uptimeYear": "92.50%",
     "time": 1885,
     "timeDay": 0,
     "timeWeek": 10238,
@@ -239,7 +239,7 @@
       "2026-11-05": 329,
       "2026-11-17": 510,
       "2026-11-19": 178,
-      "2026-11-20": 31
+      "2026-11-20": 68
     }
   },
   {
@@ -247,17 +247,17 @@
     "url": "https://changes.skica.dev",
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4dd.svg",
     "slug": "change-detection",
-    "status": "down",
-    "uptime": "94.98%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "95.76%",
+    "status": "up",
+    "uptime": "94.97%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "92.68%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "93.74%",
-    "time": 1523,
-    "timeDay": 55437,
-    "timeWeek": 13343,
-    "timeMonth": 7198,
-    "timeYear": 1696,
+    "time": 1608,
+    "timeDay": 53099,
+    "timeWeek": 16744,
+    "timeMonth": 8375,
+    "timeYear": 1800,
     "dailyMinutesDown": {
       "2025-12-07": 856,
       "2025-12-06": 1440,
@@ -334,7 +334,7 @@
       "2026-10-21": 396,
       "2026-11-17": 508,
       "2026-11-19": 178,
-      "2026-11-20": 29
+      "2026-11-20": 51
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "todoist-extension",
     "status": "down",
     "uptime": "94.14%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "94.52%",
     "time": 888,
     "timeDay": 0,
@@ -427,7 +427,7 @@
       "2026-10-21": 392,
       "2026-11-17": 102,
       "2026-11-19": 178,
-      "2026-11-20": 24
+      "2026-11-20": 61
     }
   },
   {
@@ -439,7 +439,7 @@
     "uptime": "90.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.17%",
+    "uptimeMonth": "3.09%",
     "uptimeYear": "87.92%",
     "time": 538,
     "timeDay": 0,
@@ -507,7 +507,7 @@
       "2026-08-30": 299,
       "2026-09-11": 258,
       "2026-09-28": 18,
-      "2026-11-20": 269,
+      "2026-11-20": 305,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -546,7 +546,7 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4da.svg",
     "slug": "podreczniki",
     "status": "down",
-    "uptime": "86.74%",
+    "uptime": "86.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -623,7 +623,7 @@
       "2026-09-26": 249,
       "2026-09-29": 30,
       "2026-09-28": 209,
-      "2026-11-20": 269,
+      "2026-11-20": 305,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -679,11 +679,11 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f916.svg",
     "slug": "n8n",
     "status": "down",
-    "uptime": "95.37%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "95.37%",
+    "uptime": "95.36%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "88.73%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "95.36%",
     "time": 983,
     "timeDay": 0,
     "timeWeek": 3940,
@@ -768,7 +768,7 @@
       "2026-11-17": 710,
       "2026-11-16": 198,
       "2026-11-19": 182,
-      "2026-11-20": 10
+      "2026-11-20": 46
     }
   },
   {
@@ -777,11 +777,11 @@
     "icon": "https://raw.githubusercontent.com/twitter/twemoji/refs/heads/master/assets/svg/1f4e7.svg",
     "slug": "mailstack",
     "status": "down",
-    "uptime": "95.57%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "95.57%",
+    "uptime": "95.56%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.56%",
     "time": 1520,
     "timeDay": 0,
     "timeWeek": 8597,
@@ -854,7 +854,7 @@
       "2026-10-22": 924,
       "2026-10-21": 382,
       "2026-11-17": 497,
-      "2026-11-20": 1
+      "2026-11-20": 37
     }
   }
 ]
